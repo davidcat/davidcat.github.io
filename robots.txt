@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://davidcat.github.io/sitemap.xml

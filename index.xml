@@ -6,10 +6,28 @@
     <description>Recent content on watercc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Dec 2019 12:15:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 18:08:46 +0800</lastBuildDate>
     
 	<atom:link href="https://davidcat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three</title>
+      <link>https://davidcat.github.io/posts/three/</link>
+      <pubDate>Thu, 26 Dec 2019 18:08:46 +0800</pubDate>
+      
+      <guid>https://davidcat.github.io/posts/three/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tow Post</title>
+      <link>https://davidcat.github.io/posts/tow-post/</link>
+      <pubDate>Thu, 26 Dec 2019 18:02:28 +0800</pubDate>
+      
+      <guid>https://davidcat.github.io/posts/tow-post/</guid>
+      <description>tow</description>
+    </item>
     
     <item>
       <title>使用hugo搭建博客</title>

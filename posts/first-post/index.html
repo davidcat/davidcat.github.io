@@ -148,7 +148,7 @@ Step 7: Build static pages</p>
 </li>
 </ol>
 <p>一般的主题都会托管在 Github，可以直接下载,<code>git clone --depth 1 --recursive https://github.com/gohugoio/hugoThemes.git</code> themes
-如果本地没有安装 Git，那么你也可以直接下载该主题的 zip 打包文件，并解压到 themes 目录，然后修改 config.toml,运行 <code>hugo server -D </code>即可访问 <code>http://localhost:1313</code>,运行<code>hugo -D</code>使content/posts中的文章同步到public/posts中,分别提交生成器和public中的到各自仓库</p>
+如果本地没有安装 Git，那么你也可以直接下载该主题的 zip 打包文件，并解压到 themes 目录，然后修改 config.toml,运行 <code>hugo server -D </code>即可访问 <code>http://localhost:1313</code>,运行<code>hugo -D</code>使content/posts中的markdown转化为html同步到public/posts中,提交public中的html到仓库</p>
 <ol>
 <li>
 <h1 id="blog">发布blog</h1>
